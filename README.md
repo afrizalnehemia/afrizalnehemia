@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afrizal Nehemia Toscany</h1>
+<h1 align="center">Hi 👋, I'm Afrizal </h1>
 <h3 align="center">An individual deeply passionate about creating smooth digital experiences across mobile and web platforms.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrizalnehemia" alt="afrizalnehemia" /></a> </p>
